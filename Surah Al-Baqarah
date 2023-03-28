@@ -1,0 +1,44 @@
+[  
+  {    
+    "ayat":1,    
+     "text":"الٓمٓ",    
+     "english":"Alif-Lãm-Mĩm",
+     "surah":2  
+  },  
+  {    
+    "ayat":2,    
+    "text":"ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ",    
+    "english":"This is the Book! There is no doubt about it —a guide for those mindful ˹of Allah˺,",
+    "surah":2
+  },  
+  {    
+    "ayat":3,    
+    "text":"ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",    
+    "english":"who believe in the unseen, establish prayer, and donate from what We have provided for them,",
+    "surah":2
+  }, 
+  {    
+    "ayat":4,    
+    "text":"وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",    
+    "english":"and who believe in what has been revealed to you ˹O Prophet˺ and what was revealed before you, and have sure faith in the Hereafter.",
+    "surah":2
+  },  
+  {    
+    "ayat":5,    
+    "text":"أُو۟لَـٰٓئِكَ عَلَىٰ هُدًۭى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",    
+    "english":"It is they who are ˹truly˺ guided by their Lord, and it is they who will be successful.",
+    "surah":2
+  },  
+  {    
+    "ayat":6,    
+    "text":"إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",    
+    "english":"As for those who persist in disbelief, it is the same whether you warn them or not—they will never believe.",
+    "surah":2
+  },  
+  {    
+    "ayat":7,    
+    "text":"خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰٓ أَبْصَـٰرِهِمْ غِشَـٰوَةٌۭ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌۭ",   
+    "english":"Allah has sealed their hearts and their hearing, and their sight is covered. They will suffer a tremendous punishment.", 
+    "surah":2
+  } 
+ ]
