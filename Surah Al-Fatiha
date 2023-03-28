@@ -2,36 +2,43 @@
   {
     "ayat": 1,
     "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "english":"In the Name of Allah—the Most Compassionate, Most Merciful.",
     "surah": 1
   },
   {
     "ayat": 2,
     "text": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "english":"All praise is for Allah—Lord of all worlds,",
     "surah": 1
   },
   {
     "ayat": 3,
     "text": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "english":"the Most Compassionate, Most Merciful,",
     "surah": 1
   },
   {
     "ayat": 4,
     "text": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+    "english":"Master of the Day of Judgment.",
     "surah": 1
   },
   {
     "ayat": 5,
     "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "english":"You ˹alone˺ we worship and You ˹alone˺ we ask for help.",
     "surah": 1
   },
   {
     "ayat": 6,
     "text": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+    "english":"Guide us along the Straight Path,",
     "surah": 1
   },
   {
     "ayat": 7,
     "text": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+    "english":"the Path of those You have blessed—not those You are displeased with, or those who are astray.",
     "surah": 1
   }
 ]
