@@ -1,0 +1,20 @@
+[  
+  {    
+    "ayat":1,    
+     "text":"الٓمٓ",  
+     "english":"Alif-Lãm-Mĩm.",
+     "surah":3 
+  },  
+  {    
+    "ayat":2,    
+    "text":"ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ",    
+    "english":"Allah! There is no god ˹worthy of worship˺ except Him—the Ever-Living, All-Sustaining.",
+    "surah":3 
+  },  
+  {    
+    "ayat":3,    
+    "text":"نَزَّلَ عَلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ",    
+    "english":"He has revealed to you ˹O Prophet˺ the Book in truth, confirming what came before it, as He revealed the Torah and the Gospel",
+    "surah":3  
+  }
+ ]
