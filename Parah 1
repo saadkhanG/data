@@ -1,0 +1,74 @@
+[
+  "Surah Al-Fatiha":
+  [
+    {
+      "ayat":1,
+      "parah":1,
+      "surah":1,
+      "text":'بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ',
+      "english":'In the Name of Allah—the Most Compassionate, Most Merciful.'
+    },
+    {
+      "ayat":2,
+      "parah":1,
+      "surah":1,
+      "text":'ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ',
+      "english":'All praise is for Allah—Lord of all worlds,'
+    },
+    {
+      "ayat":3,
+      "parah":1,
+      "surah":1,
+      "text":'ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ',
+      "english":'the Most Compassionate, Most Merciful,'
+    },
+  ],
+  "Surah Al-Baqarah":
+  [
+    {
+      "ayat":1,
+      "parah":1,
+      "surah":2,
+      "text":'الٓمٓ',
+      "english":'Alif-Lãm-Mĩm.'
+    },
+    {
+      "ayat":2,
+      "parah":1,
+      "surah":2,
+      "text":'ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ',
+      "english":'This is the Book! There is no doubt about it —a guide for those mindful ˹of Allah˺,'
+    },
+    {
+      "ayat":3,
+      "parah":1,
+      "surah":2,
+      "text":'ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ',
+      "english":'who believe in the unseen, establish prayer, and donate from what We have provided for them,'
+    },
+  ],
+  "Surah Al-Al-Imran":
+  [
+    {
+      "ayat":1,
+      "parah":1,
+      "surah":3,
+      "text":'الٓمٓ',
+      "english":'Alif-Lãm-Mĩm.'
+    },
+    {
+      "ayat":2,
+      "parah":1,
+      "surah":3,
+      "text":'ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ',
+      "english":'Allah! There is no god ˹worthy of worship˺ except Him—the Ever-Living, All-Sustaining.'
+    },
+    {
+      "ayat":3,
+      "parah":1,
+      "surah":3,
+      "text":'نَزَّلَ عَلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ',
+      "english":'He has revealed to you ˹O Prophet˺ the Book in truth, confirming what came before it, as He revealed the Torah and the Gospel'
+    },
+  ]
+]
