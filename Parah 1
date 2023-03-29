@@ -1,74 +1,114 @@
 {
-  "Surah Al-Fatiha":
-  [
-    {
-      "ayat":1,
-      "parah":1,
-      "surah":1,
-      "text":"بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "english":"In the Name of Allah—the Most Compassionate, Most Merciful."
-    },
-    {
-      "ayat":2,
-      "parah":1,
-      "surah":1,
-      "text":"ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
-      "english":"All praise is for Allah—Lord of all worlds,"
-    },
-    {
-      "ayat":3,
-      "parah":1,
-      "surah":1,
-      "text":"ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      "english":"the Most Compassionate, Most Merciful,"
-    },
-  ],
-  "Surah Al-Baqarah":
-  [
-    {
-      "ayat":1,
-      "parah":1,
-      "surah":2,
-      "text":"الٓمٓ",
-      "english":"Alif-Lãm-Mĩm."
-    },
-    {
-      "ayat":2,
-      "parah":1,
-      "surah":2,
-      "text":"ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ",
-      "english":"This is the Book! There is no doubt about it —a guide for those mindful ˹of Allah˺,"
-    },
-    {
-      "ayat":3,
-      "parah":1,
-      "surah":2,
-      "text":"ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
-      "english":"who believe in the unseen, establish prayer, and donate from what We have provided for them,"
-    },
-  ],
-  "Surah Al-Al-Imran":
-  [
-    {
-      "ayat":1,
-      "parah":1,
-      "surah":3,
-      "text":"الٓمٓ",
-      "english":"Alif-Lãm-Mĩm."
-    },
-    {
-      "ayat":2,
-      "parah":1,
-      "surah":3,
-      "text":"ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ",
-      "english":"Allah! There is no god ˹worthy of worship˺ except Him—the Ever-Living, All-Sustaining."
-    },
-    {
-      "ayat":3,
-      "parah":1,
-      "surah":3,
-      "text":"نَزَّلَ عَلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ",
-      "english":"He has revealed to you ˹O Prophet˺ the Book in truth, confirming what came before it, as He revealed the Torah and the Gospel"
-    },
-  ]
+    "Surah Al-Fatiha":
+    [
+      {
+        "parah":1,
+        "surah":1,
+        "ayats":[
+            {
+                "ayat":1,
+                "text":"بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+                "english":"In the Name of Allah—the Most Compassionate, Most Merciful."
+            },
+            {
+                "ayat":2,
+                "text":"ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+                "english":"All praise is for Allah—Lord of all worlds,"
+            },
+            {
+                "ayat":3,
+                "text":"ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+                "english":"the Most Compassionate, Most Merciful,"
+            },
+            {
+                "ayat":4,
+                "text":"مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+                "english":"Master of the Day of Judgment."
+            },
+            {
+                "ayat":5,
+                "text":"إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+                "english":"You ˹alone˺ we worship and You ˹alone˺ we ask for help."
+            },
+            {
+                "ayat":6,
+                "text":"ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+                "english":"Guide us along the Straight Path,"
+            },
+            {
+                "ayat":7,
+                "text":"صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+                "english":"the Path of those You have blessed—not those You are displeased with, or those who are astray."
+            }
+        ]
+      }
+    ],
+    "Surah Al-Baqarah":
+    [
+      {
+        "parah":1,
+        "surah":2,
+        "ayats":[
+            {
+                "ayat":1,
+                "text":"الٓمٓ",
+                "english":"Alif-Lãm-Mĩm."
+            },
+            {
+                "ayat":2,
+                "text":"ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ",
+                "english":"This is the Book! There is no doubt about it —a guide for those mindful ˹of Allah˺,"
+            },
+            {
+                "ayat":3,
+                "text":"ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+                "english":"who believe in the unseen, establish prayer, and donate from what We have provided for them,"
+            },
+            {
+                "ayat":4,
+                "text":"وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+                "english":"and who believe in what has been revealed to you ˹O Prophet˺ and what was revealed before you, and have sure faith in the Hereafter."
+            },
+            {
+                "ayat":5,
+                "text":"أُو۟لَـٰٓئِكَ عَلَىٰ هُدًۭى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+                "english":"It is they who are ˹truly˺ guided by their Lord, and it is they who will be successful."
+            }
+        ]
+      }
+    ],
+    "Surah Ali-Imran":
+    [
+      {
+        "parah":1,
+        "surah":3,
+        "ayats":[
+            {
+                "ayat":1,
+                "text":"الٓمٓ",
+                "english":"Alif-Lãm-Mĩm."
+            },
+            {
+                "ayat":2,
+                "text":"ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ",
+                "english":"Allah! There is no god ˹worthy of worship˺ except Him—the Ever-Living, All-Sustaining."
+            },
+            {
+                "ayat":3,
+                "text":"نَزَّلَ عَلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ",
+                "english":"He has revealed to you ˹O Prophet˺ the Book in truth, confirming what came before it, as He revealed the Torah and the Gospel"
+            },
+            {
+                "ayat":4,
+                "text":"مِن قَبْلُ هُدًۭى لِّلنَّاسِ وَأَنزَلَ ٱلْفُرْقَانَ ۗ إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ لَهُمْ عَذَابٌۭ شَدِيدٌۭ ۗ وَٱللَّهُ عَزِيزٌۭ ذُو ٱنتِقَامٍ",
+                "english":"previously, as a guide for people, and ˹also˺ revealed the Standard ˹to distinguish between right and wrong˺. Surely those who reject Allah’s revelations will suffer a severe torment. For Allah is Almighty, capable of punishment."
+            },
+            {
+                "ayat":5,
+                "text":"إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌۭ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ",
+                "english":"Surely nothing on earth or in the heavens is hidden from Allah."
+            }
+        ]
+      }
+    ]
 }
