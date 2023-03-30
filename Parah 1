@@ -73,40 +73,36 @@
                 "ayat":5,
                 "text":"أُو۟لَـٰٓئِكَ عَلَىٰ هُدًۭى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
                 "english":"It is they who are ˹truly˺ guided by their Lord, and it is they who will be successful."
-            }
-        ]
-      }
-    ],
-    "Surah Ali-Imran":
-    [
-      {
-        "parah":1,
-        "surah":3,
-        "ayats":[
-            {
-                "ayat":1,
-                "text":"الٓمٓ",
-                "english":"Alif-Lãm-Mĩm."
             },
             {
-                "ayat":2,
-                "text":"ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ",
-                "english":"Allah! There is no god ˹worthy of worship˺ except Him—the Ever-Living, All-Sustaining."
+                "ayat":6,
+                "text":"إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+                "english":"As for those who persist in disbelief, it is the same whether you warn them or not—they will never believe."
             },
             {
-                "ayat":3,
-                "text":"نَزَّلَ عَلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ",
-                "english":"He has revealed to you ˹O Prophet˺ the Book in truth, confirming what came before it, as He revealed the Torah and the Gospel"
+                "ayat":7,
+                "text":"خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰٓ أَبْصَـٰرِهِمْ غِشَـٰوَةٌۭ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌۭ",
+                "english":"Allah has sealed their hearts and their hearing, and their sight is covered. They will suffer a tremendous punishment."
             },
             {
-                "ayat":4,
-                "text":"مِن قَبْلُ هُدًۭى لِّلنَّاسِ وَأَنزَلَ ٱلْفُرْقَانَ ۗ إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ لَهُمْ عَذَابٌۭ شَدِيدٌۭ ۗ وَٱللَّهُ عَزِيزٌۭ ذُو ٱنتِقَامٍ",
-                "english":"previously, as a guide for people, and ˹also˺ revealed the Standard ˹to distinguish between right and wrong˺. Surely those who reject Allah’s revelations will suffer a severe torment. For Allah is Almighty, capable of punishment."
+                "ayat":8,
+                "text":"وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلْيَوْمِ ٱلْـَٔاخِرِ وَمَا هُم بِمُؤْمِنِينَ",
+                "english":"And there are some who say, “We believe in Allah and the Last Day,” yet they are not ˹true˺ believers."
             },
             {
-                "ayat":5,
-                "text":"إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌۭ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ",
-                "english":"Surely nothing on earth or in the heavens is hidden from Allah."
+                "ayat":9,
+                "text":"يُخَـٰدِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُوا۟ وَمَا يَخْدَعُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+                "english":"They seek to deceive Allah and the believers, yet they only deceive themselves, but they fail to perceive it."
+            },
+            {
+                "ayat":10,
+                "text":"فِى قُلُوبِهِم مَّرَضٌۭ فَزَادَهُمُ ٱللَّهُ مَرَضًۭا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْذِبُونَ",
+                "english":"There is sickness in their hearts, and Allah ˹only˺ lets their sickness increase. They will suffer a painful punishment for their lies."
+            },
+            {
+                "ayat":11,
+                "text":"Data for testing",
+                "english":"Surah Al-Baqarah contains more ayats."
             }
         ]
       }
