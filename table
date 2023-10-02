@@ -1,0 +1,24 @@
+{
+  "tables": [
+    { "id": 0, "status": "available" },
+    { "id": 1, "status": "reserved" },
+    { "id": 2, "status": "occupied" },
+    { "id": 3, "status": "available" },
+    { "id": 4, "status": "reserved" },
+    { "id": 5, "status": "occupied" },
+    { "id": 6, "status": "available" },
+    { "id": 7, "status": "reserved" },
+    { "id": 8, "status": "occupied" },
+    { "id": 9, "status": "available" },
+    { "id": 10, "status": "reserved" },
+    { "id": 11, "status": "occupied" },
+    { "id": 12, "status": "available" },
+    { "id": 13, "status": "reserved" },
+    { "id": 14, "status": "occupied" },
+    { "id": 15, "status": "available" },
+    { "id": 16, "status": "reserved" },
+    { "id": 17, "status": "occupied" },
+    { "id": 18, "status": "available" },
+    { "id": 19, "status": "reserved" }
+  ]
+}
