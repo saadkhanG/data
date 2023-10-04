@@ -1,0 +1,26 @@
+{
+    "status": 200,
+    "message": "Main Categories",
+    "response": [
+        {
+            "id": "1",
+            "name": "Chicken"
+        },
+        {
+            "id": "2",
+            "name": "Lamb"
+        },
+        {
+            "id": "3",
+            "name": "Beverages"
+        },
+        {
+            "id": "4",
+            "name": "Desserts"
+        },
+        {
+            "id": "5",
+            "name": "Wine"
+        }
+    ]
+}
