@@ -15,12 +15,12 @@
         {
             "id": "3",
             "mainCategory" : "Wine",
-            "subCategory": "Alocholic Wine"
+            "subCategory": "Alcoholic Wine"
         },
         {
             "id": "4",
             "mainCategory" : "Wine",
-            "subCategory": "Non-alocholic Wine"
+            "subCategory": "Non-alcoholic Wine"
         },
         {
             "id": "5",
