@@ -1,0 +1,31 @@
+{
+    "status": 200,
+    "message": "Sub Categories",
+    "response": [
+        {
+            "id": "1",
+            "mainCategory" : "Chicken",
+            "subCategory": "Curry"
+        },
+        {
+            "id": "2",
+            "mainCategory" : "Chicken",
+            "subCategory": "BBQ"
+        },
+        {
+            "id": "3",
+            "mainCategory" : "Wine",
+            "subCategory": "Alocholic Wine"
+        },
+        {
+            "id": "4",
+            "mainCategory" : "Wine",
+            "subCategory": "Non-alocholic Wine"
+        },
+        {
+            "id": "5",
+            "mainCategory" : "Chicken",
+            "subCategory": "Karhai"
+        }
+    ]
+}
