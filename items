@@ -1,0 +1,78 @@
+{
+    "status": 200,
+    "message": "Items",
+    "response": [
+        {
+            "mainCategory" : "Chicken",
+            "subCategory": "Curry",
+            "items": [
+                {
+                    "name": "Spicy Chicken Curry",
+                    "description": "A delicious and spicy chicken curry."
+                },
+                {
+                    "name": "Creamy Chicken Curry",
+                    "description": "A creamy and rich chicken curry."
+                },
+                {
+                    "name": "Coconut Chicken Curry",
+                    "description": "A chicken curry with a coconut twist."
+                }
+            ]
+        },
+        {
+            "mainCategory" : "Chicken",
+            "subCategory": "BBQ",
+            "items": [
+                {
+                    "name": "BBQ Chicken Wings",
+                    "description": "Succulent BBQ chicken wings."
+                },
+                {
+                    "name": "Honey Glazed BBQ Chicken",
+                    "description": "Sweet and smoky BBQ chicken."
+                },
+                {
+                    "name": "Spicy BBQ Chicken Drumsticks",
+                    "description": "Spicy and flavorful BBQ drumsticks."
+                }
+            ]
+        },
+        {
+            "mainCategory" : "Wine",
+            "subCategory": "Alcoholic Wine",
+            "items": [
+                {
+                    "name": "Red Wine",
+                    "description": "A classic red wine."
+                },
+                {
+                    "name": "White Wine",
+                    "description": "A refreshing white wine."
+                },
+                {
+                    "name": "Cabernet Sauvignon",
+                    "description": "A bold Cabernet Sauvignon wine."
+                }
+            ]
+        },
+        {
+            "mainCategory" : "Wine",
+            "subCategory": "Non-alcoholic Wine",
+            "items": [
+                {
+                    "name": "Non-alcoholic Red Wine",
+                    "description": "A non-alcoholic version of red wine."
+                },
+                {
+                    "name": "Non-alcoholic White Wine",
+                    "description": "A non-alcoholic version of white wine."
+                },
+                {
+                    "name": "Non-alcoholic Sparkling Wine",
+                    "description": "A fizzy and non-alcoholic sparkling wine."
+                }
+            ]
+        }
+    ]
+}
